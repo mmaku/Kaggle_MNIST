@@ -1,11 +1,11 @@
-# NN_scratch
+# nn_scratch
 
-> Simple neural network implemented from scratch, not using any ML libraries.
+> Neural network without using any ML libraries.
 
 [![GitHub license](https://img.shields.io/github/license/mmaku/nn_scratch?style=flat-square)](https://github.com/mmaku/nn_scratch/blob/master/LICENSE)
 [![made-with-python](https://img.shields.io/badge/Made%20with-python-306998.svg?style=flat-square)](https://www.python.org/)
 
-That's just an exercise to play with python. I decided to implement simple two layer neural network from scratch. 
+That's just an exercise to play with Python. I decided to implement simple two layer neural network from scratch, 
 
 ![Chrislb / CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)](https://upload.wikimedia.org/wikipedia/commons/6/60/ArtificialNeuronModel_english.png)
 
